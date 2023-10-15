@@ -1,0 +1,10 @@
+{
+  "apiUrl":"http://music.alfa.explorers.mdomain/api/",
+  "musicStorageUrl":"http://music.alfa.explorers.mdomain/Music/",
+  "userdataStorageUrl":"http://music.alfa.explorers.mdomain/userdata/",
+  "localMusicStoragePath":"./Music/",
+  "localUserdataStoragePath":"./userdata/",
+  "syncDatabaseOnStart":true,
+  "syncUserdataOnStart":true,
+  "decreaseIOoperations":false
+}
